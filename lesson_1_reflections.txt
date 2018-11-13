@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Diff showed what was changed between the two files.  This made the differences stand out so that it was easy to go to the changes, compare and find any bugs. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to the history of a file allows a programmer to see the file at it's inception and know what the original intent of the program was (especially if it is commented well.  Recent changes can be found to locate bugs and allow easy access to changes if more than one programmer is working on the file at the same time. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    If versions are automatically saved, it could cause problems in programming if someone is in the middle of programming at the end of the day and someone else is tasked to compile a program.  This could result in bugs and a program that does not work.  On the other hand, it might be beneficial when working with word, excel or powerpoints since your documents could be saved automatically in cases of power outages which would save time in redoing the work. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Maybe it has to do with the purpose for which each tool is used.  Just as you don't use a hammer for a screw, maybe Goole Docs is used for some purposes while Git is used for others. It also might have to do with the way the rules are setup for using each tool.  A tool may be good or bad depending on it's implementation and guidance for usage. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log might be able to tell you the history of a file that has been committed.  This can let the programmer know what was changed last.  Git diff might be used to show the differences between committed files.  So if more than one programmer is working on the same file, each can know what lines were changed if the log is not very descriptive.   
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control gives confidence to a programmer that if they break a program, they can always retrieve the last version that was committed and start over from where they first started. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Committing code. 
