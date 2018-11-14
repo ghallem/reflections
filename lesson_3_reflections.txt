@@ -6,6 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
     Clones give you a copy of code from a github location or URL on your local computer.  Forks give you a copy of code from a github location to your github location.  Branches are on your local computer.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+   To make sure that you have all the bug fixes and features on the remote area when you're making changes to your local code.  That way all the testing done contains the latest and greatest.  
 
 
 
